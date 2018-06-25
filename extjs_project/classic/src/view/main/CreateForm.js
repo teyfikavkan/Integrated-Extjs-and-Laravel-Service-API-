@@ -42,9 +42,17 @@ Ext.define('extjsproject.view.main.CreateForm', {
         {
             xtype: 'button',
             text: 'Create Person',
-            x: 280,
+            x: 500,
             listeners:{
               click :"onCreateBttnClick"
+            }
+        },
+        {
+            xtype: 'button',
+            text: 'Refresh Form',
+            x: 50,
+            listeners:{
+              click :"onRefreshBttnClick"
             }
         },
 

@@ -38,6 +38,7 @@ Ext.define('extjsproject.view.main.List', {
               { text: 'Name', dataIndex: 'name', flex: 1 },
               { text: 'Age', dataIndex: 'age', flex: 1 },
 
+
           ],
           listeners: {
               select: 'onItemSelected',
@@ -50,6 +51,7 @@ Ext.define('extjsproject.view.main.List', {
                 dock: 'bottom',
                 anchor: '100%',
                 width: 200,
+                fieldLabel: 'General Information of Selected Person',
 
 
             },

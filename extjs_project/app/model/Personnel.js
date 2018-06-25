@@ -18,6 +18,10 @@ Ext.define('extjsproject.model.Personnel', {
         {
             type: 'int',
             name: 'age'
+        },
+        {
+            type: 'string',
+            name: 'bio'
         }
     ]
 });

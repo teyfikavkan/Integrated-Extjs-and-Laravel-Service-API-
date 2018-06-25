@@ -8,15 +8,15 @@ Ext.define('extjsproject.store.Personnel', {
    ],
 
     alias: 'store.personnel',
-
+    id: 'PersonTableStore',
     autoLoad: true,
-    
+
     model: 'extjsproject.model.Personnel',
 
 
     proxy: {
         type: 'ajax',
-        url : 'http://localhost:8000/loadtable',
+        url : 'http://localhost:8000/api/info',
         reader: {
             type: 'json',
         }
