@@ -24,12 +24,13 @@ This repository contains two projects. One is developed with Ext-js framework wh
 -IDE like phpStorm
 9.Some Pictures About Project
 ![Screenshot](https://raw.githubusercontent.com/teyfikavkan/Integrated-Extjs-and-Laravel-Service-API-/master/project_pictures/1.PNG)
-![Screenshot](project_pictures/2.png)
-![Screenshot](project_pictures/3.png)
-![Screenshot](project_pictures/4.png)
-![Screenshot](project_pictures/5.png)
-![Screenshot](project_pictures/6.png)
-![Screenshot](project_pictures/7.png)
-![Screenshot](project_pictures/8.png)
-![Screenshot](project_pictures/9.png)
-![Screenshot](project_pictures/9.png)
+![Screenshot](https://raw.githubusercontent.com/teyfikavkan/Integrated-Extjs-and-Laravel-Service-API-/master/project_pictures/2.PNG)
+![Screenshot](https://raw.githubusercontent.com/teyfikavkan/Integrated-Extjs-and-Laravel-Service-API-/master/project_pictures/3.PNG)
+![Screenshot](https://raw.githubusercontent.com/teyfikavkan/Integrated-Extjs-and-Laravel-Service-API-/master/project_pictures/4.PNG)
+![Screenshot](https://raw.githubusercontent.com/teyfikavkan/Integrated-Extjs-and-Laravel-Service-API-/master/project_pictures/5.PNG)
+![Screenshot](https://raw.githubusercontent.com/teyfikavkan/Integrated-Extjs-and-Laravel-Service-API-/master/project_pictures/6.PNG)
+![Screenshot](https://raw.githubusercontent.com/teyfikavkan/Integrated-Extjs-and-Laravel-Service-API-/master/project_pictures/7.PNG)
+![Screenshot](https://raw.githubusercontent.com/teyfikavkan/Integrated-Extjs-and-Laravel-Service-API-/master/project_pictures/8.PNG)
+![Screenshot](https://raw.githubusercontent.com/teyfikavkan/Integrated-Extjs-and-Laravel-Service-API-/master/project_pictures/9.PNG)
+![Screenshot](https://raw.githubusercontent.com/teyfikavkan/Integrated-Extjs-and-Laravel-Service-API-/master/project_pictures/10.PNG)
+
