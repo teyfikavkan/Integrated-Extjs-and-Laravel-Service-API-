@@ -23,7 +23,7 @@ This repository contains two projects. One is developed with Ext-js framework wh
 -composer
 -IDE like phpStorm
 9.Some Pictures About Project
-![Screenshot](project_pictures/1.png)
+![Screenshot](https://github.com/teyfikavkan/Integrated-Extjs-and-Laravel-Service-API-/project_pictures/1.png)
 ![Screenshot](project_pictures/2.png)
 ![Screenshot](project_pictures/3.png)
 ![Screenshot](project_pictures/4.png)
@@ -31,4 +31,5 @@ This repository contains two projects. One is developed with Ext-js framework wh
 ![Screenshot](project_pictures/6.png)
 ![Screenshot](project_pictures/7.png)
 ![Screenshot](project_pictures/8.png)
+![Screenshot](project_pictures/9.png)
 ![Screenshot](project_pictures/9.png)
